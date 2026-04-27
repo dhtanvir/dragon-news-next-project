@@ -12,6 +12,7 @@ export const auth = betterAuth({
     client,
   }),
 
+  
   emailAndPassword: {
     enabled: true,
   },
